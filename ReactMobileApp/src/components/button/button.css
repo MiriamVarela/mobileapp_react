@@ -1,0 +1,56 @@
+.button-nav {
+  background-color: #F0F1F2; 
+  border:2px solid rgb(195, 68, 68);
+  color: rgb(195, 68, 68);
+  padding: 3px 7px;
+  border-radius: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 6px;
+  font-weight: bolder;
+}
+
+.buttondoble{
+  background-color:#FF556E;
+  color: #F0F1F2; 
+  border: none;
+  padding: 8px 20px;
+  border-radius: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 9px;
+}
+
+.Button{
+  border-radius: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.buttonNav{
+  background-color: #F0F1F2; 
+  border:2px solid rgb(195, 68, 68);
+  color: rgb(195, 68, 68);
+  padding: 3px 7px;
+  font-size: 6px;
+  font-weight: bolder;
+}
+
+.buttonDouble{
+  background-color:#FF556E;
+  color: #F0F1F2; 
+  border: none;
+  padding: 8px 20px;
+  font-size: 9px;
+  margin: auto;
+  max-width: 250px;
+}
+
+.icon{
+  background:transparent;
+  padding: 0px 5px;
+  max-width: 1em;
+}

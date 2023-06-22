@@ -1,0 +1,25 @@
+.nav{
+    display: flex;
+    align-content: start;
+    justify-content: space-around; 
+    align-items: center;
+    color: #000000;
+    font-style: normal;
+    top: 0;
+}
+
+.li {
+    float: left;
+    align-items: baseline;
+    display: block;
+    color: rgb(21, 20, 20);
+    text-align: right;
+    padding: 7px 7px;
+    text-decoration: none;
+    font-weight: bolder;
+  }
+
+  .logo{
+    max-height: 20px;
+    }
+
